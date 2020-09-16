@@ -10,3 +10,4 @@ Hi, my name is Justin Mackenzie Kelly.  My short term career goals are to become
 
 ## Links
 	
+*[Linkedin](www.linkedin.com/in/justin-kelly-1070311b6)
