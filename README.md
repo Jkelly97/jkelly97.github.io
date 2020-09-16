@@ -1,5 +1,5 @@
 # jkelly97.github.io
-#Justin Kelly	
+# Justin M Kelly	
 ## Introdution
 ## Current projects
 ## Links
