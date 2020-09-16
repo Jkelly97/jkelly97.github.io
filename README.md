@@ -6,7 +6,7 @@ Hi, my name is Justin Mackenzie Kelly.  My short term career goals are to become
 
 * Hello World: Java console application
 
-*Hello World: Android App
+* Hello World: Android App
 
 ## Links
 	
