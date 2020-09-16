@@ -11,6 +11,3 @@ Hi, my name is Justin Mackenzie Kelly.  My short term career goals are to become
 ## Links
 	
 *[Linkedin](www.linkedin.com/in/justin-kelly-1070311b6)
- > A blockquote indicates that the content is a quote, an e-mail being replied to, etc.
- > 
- > Every line (blank or not) of a blockquote begins with `>`, followed by a space.
